@@ -2,6 +2,7 @@
 	"config": {
 		"appName": "mtl",
 		"packageName": "com.yonyou.mtl",
+		"bundleID": "com.yonyou.uap.mobile5",
 		"projectName": "mtl",
 		"versionName": "1.0.0",
 		"versionCode": "100",
