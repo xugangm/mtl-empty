@@ -13,25 +13,10 @@
 		"sandbox": "false",
 		"targetDevice": "handset",
 		"statusBarTheme": "summer.Animations.NoTitleBar.FullScreen",
-		"androidMinSdkVersion": "16",
+		"androidMinSdkVersion": "19",
 		"isLibraryCompilation": "false",
 		"cordovaPlugins": [
-				{
-					"name": "cordova-plugin-compat",
-					"type": "cordova"
-				},
-				{
-					"name": "cordova-plugin-file",
-					"type": "cordova"
-				},
-				{
-					"name": "cordova-plugin-http",
-					"type": "cordova"
-				},
-				{
-					"name": "cordova-plugin-camera",
-					"type": "cordova"
-				}
+			
 			],
 		"gitUrl": "https://gogs.yonyoucloud.com/caiyi/mtl.git"
 	}
