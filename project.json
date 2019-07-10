@@ -15,6 +15,8 @@
 		"statusBarTheme": "summer.Animations.NoTitleBar.FullScreen",
 		"androidMinSdkVersion": "19",
 		"isLibraryCompilation": "false",
+		"ddAppCode": "dingnlb2wikil7pldytf",
+		"wxAppCode": "dingnlb2wikil7pldytf",
 		"cordovaPlugins": [
 			
 			],
