@@ -7,7 +7,7 @@
         "versionName": "1.0.0",
         "versionCode": "100",
         "versionBuild": "1.0.0",
-        "startPage": "index.html",
+        "startPage": "welcome/index.html",
         "debuggerEnable": "false",
         "reinforcement": "false",
         "sandbox": "false",
