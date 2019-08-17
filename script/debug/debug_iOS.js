@@ -1,7 +1,1 @@
-// import vscode from 'vscode'
-
-let terminal = vscode.window.createTerminal(
-    {name: "mtl"}
-);
-terminal.show(true);
-terminal.sendText('mtl debug ios');
+execCommand('mtl debug ios');
